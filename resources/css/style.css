@@ -7,5 +7,10 @@ body {
 .headertop {
     font-size: 50px;
     font-weight: normal;
-    color: #fff;
+    color: #ffffff;
+}
+
+.linkup {
+    font-size: 16px;
+    color: aquamarine;
 }
